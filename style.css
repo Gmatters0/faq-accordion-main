@@ -20,7 +20,7 @@ img{
     margin: 0 auto;
     position: relative;
     padding: 50px;
-    border-radius: 20px;
+    border-radius: 15px;
     z-index: 999;
     bottom: 24vh;
 }
