@@ -44,6 +44,9 @@ img{
     color: hsl(292, 42%, 14%);
     cursor: pointer;
 }
+.question-title:hover{
+    color: #AD28EB;
+}
 .question-icon{
     width: 30px;
     padding: 0px;
